@@ -1,0 +1,8 @@
+ltspice/*.raw
+ltspice/*.log
+ltspice/*.txt
+ltspice/*.plt
+ltspice/*.fft
+
+kicad/*-bak
+kicad/*-cache
